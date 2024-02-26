@@ -1,0 +1,20 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "Jose Antonio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.5"
+  }
+}

@@ -1,0 +1,13 @@
+module.exports = {
+    run: async(client, message, args) => {
+
+
+    },
+    config: {
+        name: '',
+        category: '',
+        cooldown:5,
+        aliases: [],
+    }
+}
+
